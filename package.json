@@ -1,0 +1,15 @@
+{
+  "name": "my-release",
+  "version": "1.0.1",
+  "description": "test release-it",
+  "main": "1.js",
+  "repository": "git@github.com:liqiyuanzi/test-release.git",
+  "author": "李起源 <liqiyuan@zuoshouyisheng.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "release-it"
+  },
+  "dependencies": {
+    "webpack": "^5.30.0"
+  }
+}
